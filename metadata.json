@@ -1,0 +1,6 @@
+{
+  "name": "Oltin Grill",
+  "description": "Tez tayyor bo'ladigan taomlar oshxonasi — burger, lavash, tovuq va ichimliklarni onlayn buyurtma qiling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
